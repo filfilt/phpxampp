@@ -1,5 +1,8 @@
 <?php
+//This is Hello World program
+# This is Hello World program
+/* This is Hello World program*/
 echo "Hello World";
-echo "Hello nega";
+echo "Hello <br><b>nega</b>";
 
 ?>
