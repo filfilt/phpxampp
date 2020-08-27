@@ -1,0 +1,8 @@
+Part1: Introduction
+==================
+Starting:
+- xampp comtrol pannel
+- check port 8080 and 443
+- Localhost:8080  From the browser
+- Go to C:\ => xampp =>htdocs=>create the folder in it
+- under this folder Create any files and codes
